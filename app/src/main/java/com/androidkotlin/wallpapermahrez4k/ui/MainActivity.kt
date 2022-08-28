@@ -1,7 +1,8 @@
-package com.androidkotlin.wallpapermahrez4k
+package com.androidkotlin.wallpapermahrez4k.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.androidkotlin.wallpapermahrez4k.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
